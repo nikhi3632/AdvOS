@@ -1,6 +1,4 @@
-# CSE 536: Assignment - A Tale of a Boot ROM and a Bootloader
-
-Please refer to the assignment handout posted on Canvas for a list of tasks.
+# Assignment - A Tale of a Boot ROM and a Bootloader
 
 ### A. Installing xv6 pre-requisites (OPTIONAL)
 

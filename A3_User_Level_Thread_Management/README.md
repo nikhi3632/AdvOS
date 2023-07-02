@@ -1,4 +1,4 @@
-# CSE 536: Assignment: User-Level Thread Management
+# Assignment: User-Level Thread Management
 
 ## Acknowledgement
 
