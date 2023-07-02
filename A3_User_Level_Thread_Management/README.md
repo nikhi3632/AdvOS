@@ -1,6 +1,4 @@
-# CSE 536: Assignment 3: User-Level Thread Management
-
-Please refer to the handout on Canvas.
+# CSE 536: Assignment: User-Level Thread Management
 
 ## Acknowledgement
 
